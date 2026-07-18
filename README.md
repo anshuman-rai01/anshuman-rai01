@@ -24,7 +24,7 @@ I enjoy working on ML/LLM-based applications and continuously improving my probl
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://cdn.worldvectorlogo.com/logos/css-3.svg)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,11 +44,11 @@ I enjoy working on ML/LLM-based applications and continuously improving my probl
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws-color.png)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-111111?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 ![Anaconda](https://img.shields.io/badge/Anaconda-111111?style=for-the-badge&logo=anaconda&logoColor=44A833)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Canva](https://static.vecteezy.com/system/resources/thumbnails/032/329/171/small/canva-icon-logo-symbol-free-png.png)
+![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 ---
 
